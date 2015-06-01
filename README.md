@@ -1,5 +1,17 @@
 # 1000_Projects
- Mega List of practical projects that any one can solve! 
+ Mega List of practical projects that any one can solve in any programming language!
+ 
+[Contributing](https://github.com/vicky002/1000_Projects/blob/master/CONTRIBUTING.md)
+============
+See ways of contributing to this repo. You can contribute solutions (will be published in this repo) to existing problems, add new projects or remove existing ones. Make sure you follow all instructions properly.
+
+[Solutions](https://github.com/vicky002/Project_Solutions/blob/master/README.md)
+==========
+
+You can find implementations of these projects in many other languages by other users in [this repo](https://github.com/vicky002/Project_Solutions).
+
+Make sure you follow all the instructions properly.
+
 
 - **Blocked Port By-Pass Application**: Apart from HTTP/HTTPS, all other ports are blocked. Our College LAN does not allow port 22 (SSH Port). Therefore, develop a tool that bypasses blocked port 22.
 
