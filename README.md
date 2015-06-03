@@ -60,138 +60,6 @@ Make sure you follow all the instructions properly.
 - **Highly Confidential Security System**:Develop an application for storing file, images , audio , video ,etc. in a secure way. Use an advance and almost non- crack-able cipher(Blowfish, AES, etc.) to encrypt data(text data & media-file) before caching them in a password protected locker.
 - Defect Tracking Tool
 
-- An Efficient Fixed Noise Removal Method from Images using Dual Tree Complex Wavelet Transform.
-
-- Software Architecture paradigm for multi core hardware
-
-- Secure Network Administration System
-
-- Image Cryptography
-
-- Image Authentication Using Stochastic Diffusion
-
-- Handling Multiple Failures in IP Networks Through Localised On-Demand Link State Routing
-
-- Dynamic Signature Verification using Statistics Analysis.
-
-- A Practical Topology Control Algorithm for Ad-Hoc Networks.
-
-- Efficient Algorithms for Mining High Utility Item sets from Transactional Database
-
-- An Efficient and Secure Dynamic Auditing Protocol for Data Storage in Cloud Computing
-
-- Face Recognition Using Eigen Values
-
-- Synchronized Data Transmission Using TCP Sockets.
-
-- Oruta: Privacy-Preserving Public Auditing for Shared Data in the Cloud.
-
-- MADES: Embedded Systems Engineering Approach in the Avionics Domain.
-
-- Operating System Challenges for GPU Resource Management
-
-- Introducing Replace-ability into web services composition
-
-- A System to Filter Unwanted Messages from OSN user Walls
-
-- Distributed Cooperative Caching in Social Wireless Networks 
-
-- Location Based Spatial Queries Processing
-
-- An efficient information retrieved approach for collaborating cloud computing
-
-- An Adaptive Framework for Autonomic Person Identification System using Pervasive Computing
-
-- Data mining for Big Data
-
-- Mobile Computing Device as Tools for College Student Education a case on Flash Cards Application
-
-- Quantum Cryptography: An Emerging Technology in Network Security
-
-- Efficient Security Solution for Privacy-Preserving Cloud Services. 
-
-- A System to Filter Unwanted Messages from OSN User Walls. 
-
-- Unprivileged Black Box Detection of User-Space Key Loggers
-
-- A Genetic Programming Approach to Record Reduplication.
-
-- Alma Mater-An Application on Information Sharing
-
-- A Collaboration Masterming Schemer Software
-
-- A Cross Layer Backpressure Architecture for Wireless Multihop Networks
-
-- Efficient Privacy Preserving Authentication in Wireless Mobile Networks
-
-- Secure Data Retrieval for Decentralized disruption-Tolerant Military Networks.
-
-- Fast Nearest Neighbour Search with Keywords.
-
-- Expressive, Efficient, and Revocable Data Access Control for Multi-Authority Cloud Storage
-
-- Balancing Performance, Accuracy, and Precision for Secure Cloud Transactions
-
-- Consistency as a Service: Auditing Cloud Consistency
-
-- An advanced method for Generating Association rules using Real values.
-
-- A classical decision tree building algorithm to handle data tuples with uncertain values.
-
-- Mining Association rules using IMine Index
-
-- An Efficient Representative Object Based Clustering Technique Using Density Based Algorithm 
-
-- Auto Detection Of Association Rule between Name And pseudonym from the Web using Anchor
-
-- New Interactive Approach To Prune And Filter Discovered Rules Using Ontologies
-
-- Load Balancing Model Based on Cloud Partitioning For the Public Cloud.
-
-- Incremental Information Extraction Using Relational Databases.
-
-- A System to Filter Unwanted Messages from OSN User Walls.
-
-- E-compiler
-
-- Compiler phases visualization
-
-- Visualization of Data Structures in Java
-
-- Detection of Routing Misbehavior in MANETS Project Source Code
-
-- Signature Based Indexing Project
-
-- Secure Data Transmission Project
-
-- RSS Reader Project in Java
-
-- Information retrieval and knowledge management system
-
-- Dynamic Source Routing Protocol Project
-
-- Regular expression engine
-
-- Timetabling lectures
-
-- Detecting Targeted Malicious Email
-
-- Fault Prediction in Clusters
-
-- Building two node Failover Cluster
-
-- Mining Association Rules between Sets of Items in Large Databases using Apriori Algorithm
-
-- Bayes Theorem for Disease diagnostics
-
-- Message Authentication in Computionally Constrained Environments
-
-- Tender Management System
-
-- Smart Traffic Management System
-
-- A Community Based Approach to Customizing Web Search
-
 - **Search tool based on data-mining algorithm**: When you type the first letter in facebook search box, have you ever  noticed, the friend name whom you search frequently or with whom you interact mostly  in fb appears on the top of the suggestion box. That's because of highly efficient data-mining algorithm implemented by facebook. Develop similar tool and add few additional as well as custom features.
 
 - **Classifier**: Most of the existing classifiers  are not quite accurate. Either read some paper or modify the existing algorithm or propose a new algorithm for classification. Develop a classifier and prove that your classifier is more efficient than existing one.
@@ -328,152 +196,290 @@ Make sure you follow all the instructions properly.
 
 - **File Copy Utility** – Create a utility that can do bulk file copying and backups of other files.
 
-- Code Snippet Manager – Another utility program that allows coders to put in functions, classes or other tidbits to save for use later. Organized by the type of snippet or language the coder can quickly look up code. For extra practice try adding syntax highlighting based on the language.
+- **Code Snippet Manager** – Another utility program that allows coders to put in functions, classes or other tidbits to save for use later. Organized by the type of snippet or language the coder can quickly look up code. For extra practice try adding syntax highlighting based on the language.
 
-- Versioning Manager – Create your own versioning system for code files. Users are forced to check out items and lock items during reading and writing so that a group of programmers are not accidentally overwriting code files on one another.
+- **Versioning Manager** – Create your own versioning system for code files. Users are forced to check out items and lock items during reading and writing so that a group of programmers are not accidentally overwriting code files on one another.
 
-- SQL Query Analyzer – A utility application which a user can enter a query and have it run against a local database and look for ways to make it more efficient.
+- **SQL Query Analyzer** – A utility application which a user can enter a query and have it run against a local database and look for ways to make it more efficient.
 
-- Remote SQL Tool – A utility that can execute queries on remote servers from your local computer across the Internet. It should take in a remote host, user name and password, run the query and return the results.
+- **Remote SQL Tool** – A utility that can execute queries on remote servers from your local computer across the Internet. It should take in a remote host, user name and password, run the query and return the results.
 
-- Baseball / Other Card Collector – Create an online application for keeping track of a collection of cards. Let the user enter all cards in a set, check off which ones they have, which ones they need and generate lists of cards they are looking for. For extra complexity, have it sum up sets and generate reports on how close they are of completing sets or the current value of a set.
+- **Baseball / Other Card Collector** – Create an online application for keeping track of a collection of cards. Let the user enter all cards in a set, check off which ones they have, which ones they need and generate lists of cards they are looking for. For extra complexity, have it sum up sets and generate reports on how close they are of completing sets or the current value of a set.
 
-- Report Generator – Create a utility that generates a report based on some tables in a database. Generates a sales reports based on the order/order details tables or sums up the days current database activity.
+- **Report Generator** – Create a utility that generates a report based on some tables in a database. Generates a sales reports based on the order/order details tables or sums up the days current database activity.
 
-- Database Backup Script Maker – A program which reads a database’s objects, relationships, records and stored procedures and creates a .sql file which can then be imported into another database or kept as a backup file to rebuild the database with.
+- **Database Backup Script Maker** – A program which reads a database’s objects, relationships, records and stored procedures and creates a .sql file which can then be imported into another database or kept as a backup file to rebuild the database with.
 
-- Event Scheduler and Calendar – Make an application which allows the user to enter a date and time of an event, event notes and then schedule those events on a calendar. The user can then browse the calendar or search the calendar for specific events. For added complexity, allow the application to create reoccurrence events that reoccur every day, week, month, year etc.
+- **Event Scheduler and Calendar** – Make an application which allows the user to enter a date and time of an event, event notes and then schedule those events on a calendar. The user can then browse the calendar or search the calendar for specific events. For added complexity, allow the application to create reoccurrence events that reoccur every day, week, month, year etc.
 
-- Budget Tracker – Write an application that keeps track of a household’s budget. The user can add expenses, income, and recurring costs to find out how much they are saving or losing over a period of time. For added complexity allow the user to specify a date range and see the net flow of money in and out of the house budget for that time period.
+- **Budget Tracker** – Write an application that keeps track of a household’s budget. The user can add expenses, income, and recurring costs to find out how much they are saving or losing over a period of time. For added complexity allow the user to specify a date range and see the net flow of money in and out of the house budget for that time period.
 
-- Address Book – Keep track of various contacts, their numbers, emails and little notes about them like a Rolodex in the database. For extra complexity, allow the user to connect to a website publish their address book based on specific options the user has set.
+- **Address Book** – Keep track of various contacts, their numbers, emails and little notes about them like a Rolodex in the database. For extra complexity, allow the user to connect to a website publish their address book based on specific options the user has set.
 
-- TV Show Tracker – Got a favorite show you don’t want to miss? Don’t have a PVR or want to be able to find the show to then PVR it later? Make an application which can search various online TV Guide sites, locate the shows/times/channels and add them to a database application. The database/website then can send you email reminders that a show is about to start and which channel it will be on.
+- **TV Show Tracker** – Got a favorite show you don’t want to miss? Don’t have a PVR or want to be able to find the show to then PVR it later? Make an application which can search various online TV Guide sites, locate the shows/times/channels and add them to a database application. The database/website then can send you email reminders that a show is about to start and which channel it will be on.
 
-- Travel Planner System – Make a system that allows users to put together their own little travel itinerary and keep track of the airline / hotel arrangements, points of interest, budget and schedule. 
+- **Travel Planner System** – Make a system that allows users to put together their own little travel itinerary and keep track of the airline / hotel arrangements, points of interest, budget and schedule. 
 
-- Entity Relationship Diagram (ERD) Creator – A program that allows the user to put together ERD diagram and save it or have it generate some basic SQL syntax to give them a jump start.
+- **Entity Relationship Diagram (ERD) Creator** – A program that allows the user to put together ERD diagram and save it or have it generate some basic SQL syntax to give them a jump start.
 
-- Database Translation (MySQL <-> SQL Server) – A simple utility that reads in from one database and constructs SQL compliant with another database. Then saves that to another database. One popular transition would be to and from MySQL server for databases like SQL Server and Oracle.
+- **Database Translation (MySQL <-> SQL Server)** – A simple utility that reads in from one database and constructs SQL compliant with another database. Then saves that to another database. One popular transition would be to and from MySQL server for databases like SQL Server and Oracle.
 
-- Web Board (Forum) – Create a forum for you and your buddies to post, administer and share thoughts and ideas.
+- **Web Board (Forum)** – Create a forum for you and your buddies to post, administer and share thoughts and ideas.
 
 
 Graphics and Multimedia
+-----------------------
 
-Slide Show – Make an application that shows various pictures in a slide show format. For extra complexity try adding various effects like fade in/out, star wipe and window blinds transitions.
 
-Mind Mapper – Allow the user to put down ideas and quickly brainstorm how they are related into a mind map. The goal here is speed so let the user quickly write in an idea and drag it around in a visual map to show relationships.
 
-Import Picture and Save as Grayscale – A utility that sucks the color right out of an image and saves it. You could add more including adjusting contrast, colorizing and more for added complexity.
+**Slide Show** – Make an application that shows various pictures in a slide show format. For extra complexity try adding various effects like fade in/out, star wipe and window blinds transitions.
 
-Stream Video from Online – Try to create your own online streaming video player.
+**Mind Mapper** – Allow the user to put down ideas and quickly brainstorm how they are related into a mind map. The goal here is speed so let the user quickly write in an idea and drag it around in a visual map to show relationships.
 
-Mp3 Player (and Other Formats) – A simple program for playing your favorite music files. For extra complexity see if you can add in playlists and an equalizer.
+**Import Picture and Save as Grayscale** – A utility that sucks the color right out of an image and saves it. You could add more including adjusting contrast, colorizing and more for added complexity.
 
-Bulk Picture Manipulator – This program will take in a directory of pictures and apply a certain effect to them whether it be reducing color count, changing its format, or alter file attributes. For something extra try to see if you can also create a system to tag them. 
+**Stream Video from Online** – Try to create your own online streaming video player.
 
-CD Burning App – Create a utility that simply burns data to a CD.
+**Mp3 Player (and Other Formats)** – A simple program for playing your favorite music files. For extra complexity see if you can add in playlists and an equalizer.
 
-YouTube Downloader – A program which can download videos to your hard drive from youtube.com. Save the files in various formats including FLV and AVI.
+**Bulk Picture Manipulator** – This program will take in a directory of pictures and apply a certain effect to them whether it be reducing color count, changing its format, or alter file attributes. For something extra try to see if you can also create a system to tag them. 
 
-Wallpaper Manager – Make a program which keeps track of your favorite wallpapers, changes them regularly and maybe even re-sizes them for your resolution (aka tiles one and stretches another)
+**CD Burning App** – Create a utility that simply burns data to a CD.
 
-Screen Capture Program – Make a utility that will simply capture a frame from your web cam. For added complexity see if you can also build in emailing functionality.
+**YouTube Downloader** – A program which can download videos to your hard drive from youtube.com. Save the files in various formats including FLV and AVI.
 
-Image Browser – This application is used to view various image files on your computer from PNG, GIF, JPG to BMP, TIFF etc.
+**Wallpaper Manager** – Make a program which keeps track of your favorite wallpapers, changes them regularly and maybe even re-sizes them for your resolution (aka tiles one and stretches another)
 
-Traffic Light Application – See if you can make your own street light application and then put it into an intersection scenario. Don’t let any cars run the lights and crash into one another!
+**Screen Capture Program** – Make a utility that will simply capture a frame from your web cam. For added complexity see if you can also build in emailing functionality.
 
-MP3 to Wav Converter – MP3 is essentially compressed wav format. See if you can translate it back into wav so that some other sound editing programs can work with the wav file itself. Keep in mind that 1 MB of MP3 is relative 10MB wav.
+**Image Browser** – This application is used to view various image files on your computer from PNG, GIF, JPG to BMP, TIFF etc.
 
-Signature Maker – Ever seen those web board posts where someone has a generated signature made up? See if you can make a program that allows the user to specify a background, text, colors and alignment to make their own signatures or userbars.
+**Traffic Light Application** – See if you can make your own street light application and then put it into an intersection scenario. Don’t let any cars run the lights and crash into one another!
 
-Screen Saver – Make a screensaver program that will run while your computer sits idle. To make a simple one use some standard pictures and then for added complexity try a 3D object that spins around the screen and bounces off the sides.
+**MP3 to Wav Converter** – MP3 is essentially compressed wav format. See if you can translate it back into wav so that some other sound editing programs can work with the wav file itself. Keep in mind that 1 MB of MP3 is relative 10MB wav.
 
-Watermarking Application – Have some pictures you want copyright protected? Add your own logo or text lightly across the background so that no one can simply steal your graphics off your site. Make a program that will add this watermark to the picture.
+**Signature Maker** – Ever seen those web board posts where someone has a generated signature made up? See if you can make a program that allows the user to specify a background, text, colors and alignment to make their own signatures or userbars.
 
-Turtle Graphics – This is a common project where you create a floor of 20 x 20 squares. Using various commands you tell a turtle to draw a line on the floor. You have move forward, left or right, lift or drop pen etc. For added complexity, allow the program to read in the list of commands from a file. Do a search online for “Turtle Graphics” for more information.
+**Screen Saver** – Make a screensaver program that will run while your computer sits idle. To make a simple one use some standard pictures and then for added complexity try a 3D object that spins around the screen and bounces off the sides.
+
+**Watermarking Application** – Have some pictures you want copyright protected? Add your own logo or text lightly across the background so that no one can simply steal your graphics off your site. Make a program that will add this watermark to the picture.
+
+**Turtle Graphics** – This is a common project where you create a floor of 20 x 20 squares. Using various commands you tell a turtle to draw a line on the floor. You have move forward, left or right, lift or drop pen etc. For added complexity, allow the program to read in the list of commands from a file. Do a search online for “Turtle Graphics” for more information.
 
  
 
 
 Games
+------
 
-Battleship – Create two game boards and let each player place a number of war ships. Each player can’t see the other person’s board. They then take turns firing at one another by guessing one of the board squares. If the square they guess contains part of a ship, it is a hit. Otherwise it is a miss. They sink a ship when all squares containing that particular ship have been uncovered. The player wins when all their opponents’ ships have been sunk.
 
-Chess and Checkers – Simply put a game of chess or checkers. Try to make it playable online and if you can use a graphical user interface that can also undo or redo a step as well as keep a history of moves for replay.
+**Battleship** – Create two game boards and let each player place a number of war ships. Each player can’t see the other person’s board. They then take turns firing at one another by guessing one of the board squares. If the square they guess contains part of a ship, it is a hit. Otherwise it is a miss. They sink a ship when all squares containing that particular ship have been uncovered. The player wins when all their opponents’ ships have been sunk.
 
-Hangman – Randomly select a word from a file, have the user guess characters in the word. For each character they guess that is not in the word, have it draw another part of a man hanging in a noose. If the picture is completed before they guess all the characters, they lose.
+**Chess and Checkers** – Simply put a game of chess or checkers. Try to make it playable online and if you can use a graphical user interface that can also undo or redo a step as well as keep a history of moves for replay.
 
-Crossword Puzzle – Create a crossword puzzle which links words together on common letters. Provide a list of clues for each word and let the user enter fill in the words until the entire crossword is filled in.
+**Hangman** – Randomly select a word from a file, have the user guess characters in the word. For each character they guess that is not in the word, have it draw another part of a man hanging in a noose. If the picture is completed before they guess all the characters, they lose.
 
-Frogger – Get your frog across the river and lanes of traffic by either jumping on logs and lily pads rushing by at different speeds or avoid the automobiles which are also moving at various speeds. Based on the old arcade game..
-68. Cooperative Work for Agent-Based Heterogeneous Information Integrated Information System
+**Crossword Puzzle** – Create a crossword puzzle which links words together on common letters. Provide a list of clues for each word and let the user enter fill in the words until the entire crossword is filled in.
 
-69. Detecting and Preventing IP-spoofed Distributed DoS Attacks
+**Frogger** – Get your frog across the river and lanes of traffic by either jumping on logs and lily pads rushing by at different speeds or avoid the automobiles which are also moving at various speeds. Based on the old arcade game..
 
-70. Implementation of Sliding Window Protocols in Networks
+- An Efficient Fixed Noise Removal Method from Images using Dual Tree Complex Wavelet Transform.
 
-71. Implementation of Congestion Control Protocols in Networks
+- Software Architecture paradigm for multi core hardware
 
-72. Implementation of Routing Protocols in Networks
+- Secure Network Administration System
 
-73. Automated Real-Time Detection of Potentially Suspicious Behavior in Public Transport Areas
+- Image Cryptography
 
-74. Automated Student Performace Analysis
+- Image Authentication Using Stochastic Diffusion
 
-75. Automatic Accident Detection And Ambulance Rescue With Intelligent Traffic Light System
+- Handling Multiple Failures in IP Networks Through Localised On-Demand Link State Routing
 
-76. Bandwidth Recycling in 802.16 Networks
+- Dynamic Signature Verification using Statistics Analysis.
 
-77. A Combine Approach to ensure data security in cloud computing
+- A Practical Topology Control Algorithm for Ad-Hoc Networks.
 
-78. A model to authenticate request for online banking transactions
+- Efficient Algorithms for Mining High Utility Item sets from Transactional Database
 
-79. Athuentication for session password using color and image
+- An Efficient and Secure Dynamic Auditing Protocol for Data Storage in Cloud Computing
 
-80. Self Protection in a Clustered Distributed System
+- Face Recognition Using Eigen Values
 
-81. Efficient and Effective Duplicate Detection in Hierarchical Data
+- Synchronized Data Transmission Using TCP Sockets.
 
-82. Efficient Similarity Search over Encrypted Data
+- Oruta: Privacy-Preserving Public Auditing for Shared Data in the Cloud.
 
-83. Payment Extraction Tool - (SAP/ABAP)
+- MADES: Embedded Systems Engineering Approach in the Avionics Domain.
 
-84. Share Travel – Web Application - .NET/JAVA/PHP
+- Operating System Challenges for GPU Resource Management
 
-85. Crypt Analysis Between Different Languages – (PHYTHAIN)
+- Introducing Replace-ability into web services composition
 
-86. Multiplayer 3D Strategic Game
+- A System to Filter Unwanted Messages from OSN user Walls
 
-87. Quadcopter
+- Distributed Cooperative Caching in Social Wireless Networks 
 
-88. My Music Tutor
+- Location Based Spatial Queries Processing
 
-89. Internet Transaction Security with Fingerprint Recognition
+- An efficient information retrieved approach for collaborating cloud computing
 
-90. Image Analyzer - iLocator
+- An Adaptive Framework for Autonomic Person Identification System using Pervasive Computing
 
-91. Tourism Based Social Networking Service
+- Data mining for Big Data
 
-92. Image Analyzer
+- Mobile Computing Device as Tools for College Student Education a case on Flash Cards Application
 
-93. Knowledge Discovery Over Telugu Songs
+- Quantum Cryptography: An Emerging Technology in Network Security
 
-94. aGate Portal for Inventory Management
+- Efficient Security Solution for Privacy-Preserving Cloud Services. 
 
-95. Time-travel in the Internet
+- A System to Filter Unwanted Messages from OSN User Walls. 
 
-96. Creating Your Wwn iPhone/Android Phone/Facebook Multimieda Applications
+- Unprivileged Black Box Detection of User-Space Key Loggers
 
-97. Finding Shortest Path in UST
+- A Genetic Programming Approach to Record Reduplication.
 
-98. In-network Data Processing for Wireless Sensor Networks
+- Alma Mater-An Application on Information Sharing
 
-99. Lego-robot Guided by Wifi Devices
+- A Collaboration Masterming Schemer Software
 
-100. Interactive 3D Maps
+- A Cross Layer Backpressure Architecture for Wireless Multihop Networks
+
+- Efficient Privacy Preserving Authentication in Wireless Mobile Networks
+
+- Secure Data Retrieval for Decentralized disruption-Tolerant Military Networks.
+
+- Fast Nearest Neighbour Search with Keywords.
+
+- Expressive, Efficient, and Revocable Data Access Control for Multi-Authority Cloud Storage
+
+- Balancing Performance, Accuracy, and Precision for Secure Cloud Transactions
+
+- Consistency as a Service: Auditing Cloud Consistency
+
+- An advanced method for Generating Association rules using Real values.
+
+- A classical decision tree building algorithm to handle data tuples with uncertain values.
+
+- Mining Association rules using IMine Index
+
+- An Efficient Representative Object Based Clustering Technique Using Density Based Algorithm 
+
+- Auto Detection Of Association Rule between Name And pseudonym from the Web using Anchor
+
+- New Interactive Approach To Prune And Filter Discovered Rules Using Ontologies
+
+- Load Balancing Model Based on Cloud Partitioning For the Public Cloud.
+
+- Incremental Information Extraction Using Relational Databases.
+
+- A System to Filter Unwanted Messages from OSN User Walls.
+
+- E-compiler
+
+- Compiler phases visualization
+
+- Visualization of Data Structures in Java
+
+- Detection of Routing Misbehavior in MANETS Project Source Code
+
+- Signature Based Indexing Project
+
+- Secure Data Transmission Project
+
+- RSS Reader Project in Java
+
+- Information retrieval and knowledge management system
+
+- Dynamic Source Routing Protocol Project
+
+- Regular expression engine
+
+- Timetabling lectures
+
+- Detecting Targeted Malicious Email
+
+- Fault Prediction in Clusters
+
+- Building two node Failover Cluster
+
+- Mining Association Rules between Sets of Items in Large Databases using Apriori Algorithm
+
+- Bayes Theorem for Disease diagnostics
+
+- Message Authentication in Computionally Constrained Environments
+
+- Tender Management System
+
+- Smart Traffic Management System
+
+- A Community Based Approach to Customizing Web Search
+
+- Cooperative Work for Agent-Based Heterogeneous Information Integrated Information System
+
+- Detecting and Preventing IP-spoofed Distributed DoS Attacks
+
+- Implementation of Sliding Window Protocols in Networks
+
+- Implementation of Congestion Control Protocols in Networks
+
+- Implementation of Routing Protocols in Networks
+
+- Automated Real-Time Detection of Potentially Suspicious Behavior in Public Transport Areas
+
+- Automated Student Performace Analysis
+
+- Automatic Accident Detection And Ambulance Rescue With Intelligent Traffic Light System
+
+- Bandwidth Recycling in 802.16 Networks
+
+- A Combine Approach to ensure data security in cloud computing
+
+- A model to authenticate request for online banking transactions
+
+- Athuentication for session password using color and image
+
+- Self Protection in a Clustered Distributed System
+
+- Efficient and Effective Duplicate Detection in Hierarchical Data
+
+- Efficient Similarity Search over Encrypted Data
+
+- Payment Extraction Tool - (SAP/ABAP)
+
+- Share Travel – Web Application - .NET/JAVA/PHP
+
+- Crypt Analysis Between Different Languages – (PHYTHAIN)
+
+- Multiplayer 3D Strategic Game
+
+- Quadcopter
+
+- My Music Tutor
+
+- Internet Transaction Security with Fingerprint Recognition
+
+- Image Analyzer - iLocator
+
+- Tourism Based Social Networking Service
+
+- Image Analyzer
+
+- Knowledge Discovery Over Telugu Songs
+
+- aGate Portal for Inventory Management
+
+- Time-travel in the Internet
+
+- Creating Your Wwn iPhone/Android Phone/Facebook Multimieda Applications
+
+- Finding Shortest Path in UST
+
+- In-network Data Processing for Wireless Sensor Networks
+
+- Lego-robot Guided by Wifi Devices
+
+- Interactive 3D Maps
 
 101. Flood Prediction
 
