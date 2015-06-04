@@ -283,6 +283,11 @@ Games
 
 **Frogger** – Get your frog across the river and lanes of traffic by either jumping on logs and lily pads rushing by at different speeds or avoid the automobiles which are also moving at various speeds. Based on the old arcade game..
 
+
+Uncategorized
+--------------
+
+
 - An Efficient Fixed Noise Removal Method from Images using Dual Tree Complex Wavelet Transform.
 
 - Software Architecture paradigm for multi core hardware
@@ -481,112 +486,112 @@ Games
 
 - Interactive 3D Maps
 
-101. Flood Prediction
+- Flood Prediction
 
-102. Interesting Education Applications for the Tablet PC platform
+- Interesting Education Applications for the Tablet PC platform
+-
+- Artificial Intelligence and Location Based Services
 
-103. Artificial Intelligence and Location Based Services
+- Time Series-based Approach for Predicating Stock Data
 
-104. Time Series-based Approach for Predicating Stock Data
+- P2PMoD Peer-to-Peer Movie-on-Demand
 
-105. P2PMoD Peer-to-Peer Movie-on-Demand
+- Fastfood e-Order System
 
-106. Fastfood e-Order System
+- Green Bus
 
-107. Green Bus
+- Machine Learning for Computer Security Application
 
-108. Machine Learning for Computer Security Application
+- Application of Image Processing Techniques to Tissue Texture Analysis and Image Compression
 
-109. Application of Image Processing Techniques to Tissue Texture Analysis and Image Compression
+- Mobile Marketing Management System
 
-110. Mobile Marketing Management System
+- A Collaborative Pervasive Surveillance System Based On Low Bit-Rate Video
 
-111. A Collaborative Pervasive Surveillance System Based On Low Bit-Rate Video
+- Fault-Tolerance Analysis of Sorting Networks
 
-112. Fault-Tolerance Analysis of Sorting Networks
+- Intelligent Interface for Database Systems
 
-113. Intelligent Interface for Database Systems
+- Optimal Selection as an Optimization Problem over Rule-Based Constrains
 
-114. Optimal Selection as an Optimization Problem over Rule-Based Constrains
+- Mobile Banking Project in Java
 
-115. Mobile Banking Project in Java
+- Internet Management System in Java
 
-116. Internet Management System in Java
+- Simple CRM in Java
 
-117. Simple CRM in Java
+- Online Magazine in Java
 
-118. Online Magazine in Java
+- Patient Management System
 
-119. Patient Management System
+- Distributed Sales Management with Java
 
-120. Distributed Sales Management with Java
+- Development of a neural network applet set using ENCOG
 
-121. Development of a neural network applet set using ENCOG
+- An email filter to cut out spam
 
-122. An email filter to cut out spam
+- Interactive Evolution of Behaviour using ANN & AI
 
-123. Interactive Evolution of Behaviour using ANN & AI
+-- Determining the Language of a Text Using a Neural Network
 
-124. Determining the Language of a Text Using a Neural Network
+- Investigating the Performance of a Perceptron and an MLP
 
-125. Investigating the Performance of a Perceptron and an MLP
+- Recognition of Handwritten Characters
 
-126. Recognition of Handwritten Characters
+- A system to visualise music
 
-127. A system to visualise music
+- Construction of deterministic finite-state automata
 
-128. Construction of deterministic finite-state automata
+- Computer-aided learning (CAL) software application for Higher Education
 
-129. Computer-aided learning (CAL) software application for Higher Education
+- Realistic software testing without real-world data
 
-130. Realistic software testing without real-world data
+- Identifying similar pieces of music ( Music Piracy)
 
-131. Identifying similar pieces of music ( Music Piracy)
+- Parallel processing implementation of the Mandelbrot set
 
-132. Parallel processing implementation of the Mandelbrot set
+- Development of a Natural Language Interface to a Database
 
-133. Development of a Natural Language Interface to a Database
+- Timetabling Lectures, Lecturers and Rooms
 
-134. Timetabling Lectures, Lecturers and Rooms
+- Application of the Google API to detect plagiarism
 
-135. Application of the Google API to detect plagiarism
+- Avmon: Optimal And Scalable Discovery Of Consistent Availability Monitoring Overlays For Distributed Systems
 
-136. Avmon: Optimal And Scalable Discovery Of Consistent Availability Monitoring Overlays For Distributed Systems
+- Dynamic Search Algorithm In Unstructured Peer-To-PeerNetworks
 
-137. Dynamic Search Algorithm In Unstructured Peer-To-PeerNetworks
+- Maintaining Colored Trees For Disjoint Multipath Routing Under Node Failures
 
-138. Maintaining Colored Trees For Disjoint Multipath Routing Under Node Failures
+- Reliable Routings In Networks With Generalized Link Failure Events
 
-139. Reliable Routings In Networks With Generalized Link Failure Events
+- A Tree-Based Peer-To-Peer Network With Quality Guarantees
 
-140. A Tree-Based Peer-To-Peer Network With Quality Guarantees
+- Measuring Capacity Bandwidth Of Targeted Path Segments
 
-141. Measuring Capacity Bandwidth Of Targeted Path Segments
+- Distributed Cache Architecture With Snooping For Qos Routing In LargeNetworks.
 
-142. Distributed Cache Architecture With Snooping For Qos Routing In LargeNetworks.
+- Performance Of A Speculative Transmission Scheme For Scheduling- LatencyReduction
 
-143. Performance Of A Speculative Transmission Scheme For Scheduling- LatencyReduction
+- Evaluation Of Efficiency In The Combating Network Packet Losses Using Fec(Forward Error Correction) Coding
 
-144. Evaluation Of Efficiency In The Combating Network Packet Losses Using Fec(Forward Error Correction) Coding
+- Rppm(Rectified Probabilistic Packet Marking ) Algorithm For The Packets
 
-145. Rppm(Rectified Probabilistic Packet Marking ) Algorithm For The Packets
+- Efficient&Secure Content Processing Using Intermediaries
 
-146. Efficient&Secure Content Processing Using Intermediaries
+- Distributed Cache Architecture For Routing In Hierarchical Qos- CapableNetworks.
 
-147. Distributed Cache Architecture For Routing In Hierarchical Qos- CapableNetworks.
+- Preventing Network Data Congestion Collapse Using Network Border Patrol
 
-148. Preventing Network Data Congestion Collapse Using Network Border Patrol
+- A Simplified Anonymous Dynamic Source Routing Protocol.
 
-149. A Simplified Anonymous Dynamic Source Routing Protocol.
+- Three Party Quantum Key Distribution Protocol With Implicit Authentication
 
-150. Three Party Quantum Key Distribution Protocol With Implicit Authentication
+- Implementation Of Rsa To Secure The Data Over A Group
 
-151. Implementation Of Rsa To Secure The Data Over A Group
+- Spatial Query Processing Over Lan
 
-152. Spatial Query Processing Over Lan
+- An Acknowledgement Approach For The Detection Of Routing Misbehavior
 
-153. An Acknowledgement Approach For The Detection Of Routing Misbehavior
+- Dynamic Load Balancing Mechanism For A Parallel System
 
-154. Dynamic Load Balancing Mechanism For A Parallel System
-
-155. Rate And Delay Guarantees Provided By Clos Packet Switches With Load Balancing.
+- Rate And Delay Guarantees Provided By Clos Packet Switches With Load Balancing.
