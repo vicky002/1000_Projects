@@ -489,7 +489,7 @@ Uncategorized
 - Flood Prediction
 
 - Interesting Education Applications for the Tablet PC platform
--
+
 - Artificial Intelligence and Location Based Services
 
 - Time Series-based Approach for Predicating Stock Data
@@ -532,7 +532,7 @@ Uncategorized
 
 - Interactive Evolution of Behaviour using ANN & AI
 
--- Determining the Language of a Text Using a Neural Network
+- Determining the Language of a Text Using a Neural Network
 
 - Investigating the Performance of a Perceptron and an MLP
 
