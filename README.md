@@ -10,7 +10,7 @@ See ways of contributing to this repo. You can contribute solutions (will be pub
 
 You can find implementations of these projects in many other languages by other users in [this repo](https://github.com/vicky002/Project_Solutions).
 
-Make sure you follow all the instructions properly.
+Before committing make sure you follow all the instructions properly.
 
 
 - **Blocked Port By-Pass Application**: Apart from HTTP/HTTPS, all other ports are blocked. Our College LAN does not allow port 22 (SSH Port). Therefore, develop a tool that bypasses blocked port 22.
