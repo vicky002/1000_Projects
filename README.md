@@ -58,7 +58,8 @@ Before committing make sure you follow all the instructions properly.
 - **A Social Code Sharing Site**: Build a user-driven application with much more interactivity and some social-style features—specifically, a community-based repository of useful, reusable code.Something like Django snippets. This project can be easily done in Django (web framework).
 
 - **Highly Confidential Security System**:Develop an application for storing file, images , audio , video ,etc. in a secure way. Use an advance and almost non- crack-able cipher(Blowfish, AES, etc.) to encrypt data(text data & media-file) before caching them in a password protected locker.
-- Defect Tracking Tool
+
+- **Defect Tracking Tool** : Develop and application to track defects in different product and implement various defects and their analysis.
 
 - **Search tool based on data-mining algorithm**: When you type the first letter in facebook search box, have you ever  noticed, the friend name whom you search frequently or with whom you interact mostly  in fb appears on the top of the suggestion box. That's because of highly efficient data-mining algorithm implemented by facebook. Develop similar tool and add few additional as well as custom features.
 
@@ -284,8 +285,8 @@ Games
 **Frogger** – Get your frog across the river and lanes of traffic by either jumping on logs and lily pads rushing by at different speeds or avoid the automobiles which are also moving at various speeds. Based on the old arcade game..
 
 
-Uncategorized
---------------
+Research Projects
+------------------
 
 
 - An Efficient Fixed Noise Removal Method from Images using Dual Tree Complex Wavelet Transform.
