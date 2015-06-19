@@ -596,3 +596,68 @@ Research Projects
 - Dynamic Load Balancing Mechanism For A Parallel System
 
 - Rate And Delay Guarantees Provided By Clos Packet Switches With Load Balancing.
+- Screen Shot Grabber
+- Motion Detection and Instant Alerter 
+- ava Based Fire Alarm System
+- Enhanced Search Engine
+- Dynamic Signature Verification Using Pattern Recognition
+- Distributed Load Sharing In Mobile Environment
+- Disease Identification using WBC Count 
+- Database Synchronization
+- Data Mining For Credit Card Application Processing
+- Data Leakage Detection
+- Channel Diversity in Wireless Mesh Network
+- Blog Mining and Emotion Argumentation
+- Automatic Alert Alarming For Security Systems
+- Automated Parking System using RFID Technology
+- Aadhaar Plus
+- Mobile Recharging With Banking Transaction Using SMS
+- Gesture Recognition System using Privacy
+- Email Flyer
+- Content Base Mail Classification
+- Biometric Authentication System Using the Human Ear
+- Battery Optimizer for Android Mobile Devices
+- Android Application for Call Taxi
+- Advanced 3D Maps for Personal Digital Assistant
+- Accessing a Network Using Secure Mobile Communications
+- Access My PC
+- 3D Graphics Library for Mobile Applications
+- Face Detection Using Template Matching
+- Load Shedding In Mobile Systems Using Mobiqual
+- Smart Card Reader Using Mifare Technology
+- Bluetooth Home Automation
+- Creepy Crawler System
+- ATM Reporting system
+- E-Mail Campaign System
+- Mingle Box
+- Trade Service Engine
+- SMTP Mail Server
+- Virtual Shopping
+- Value card – Smart card based Loyalty
+- Universal Web Based File Coordinator
+- UA Portal
+- Trackerz
+- Survey Logics
+- Pro-net Communication
+- Implementation of Security in WAN
+- Implementation of OSPF on IPV6
+- Support Vector Machines For Face Recognition
+- Web based Applications for Insurance Services
+- Cold Boot Attack
+- Virtual Class Rooms
+- Electronic Mail Server
+- SUDOKU
+- Bluetooth Hotspot
+- Result Alert System With E-mail and SMS
+- Bug Tracking System
+- Partial Face Recognition Using Core features Of The Face
+- Face Recognition in e-attendance
+- Online Examination System
+- Chat Server
+- Bandwidth-Allocation-for-Distributed-Algorithm
+- Early Congestion Indication
+- Intruder Detection System Over Abnormal Internet Sequence
+- Log Reader Based Code Analyzer
+- Multi-Tasking Sockets
+- Network Monitoring for Remote Task Executor
+- Audio Manager
