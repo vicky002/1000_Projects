@@ -1,6 +1,8 @@
 # 1000_Projects
  Mega List of practical projects that any one can solve in any programming language!
  
+ ![The L](http://vignette3.wikia.nocookie.net/deathnote/images/f/f5/L_fancel_from_death_note_by_escaf.jpg/revision/latest?cb=20120713001404)
+ 
 [Contributing](https://github.com/vicky002/1000_Projects/blob/master/CONTRIBUTING.md)
 ============
 See ways of contributing to this repo. You can contribute solutions (will be published in this repo) to existing problems, add new projects or remove existing ones. Make sure you follow all instructions properly.
