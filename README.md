@@ -284,6 +284,8 @@ Games
 
 **Frogger** – Get your frog across the river and lanes of traffic by either jumping on logs and lily pads rushing by at different speeds or avoid the automobiles which are also moving at various speeds. Based on the old arcade game..
 
+**Tetris** –  Tile-matching puzzle video game. Arrange incoming tiles such that a row is formed, which once formed disappears. Get points by making as many rows as possible. Introduce levels.
+
 
 Research Projects
 ------------------
