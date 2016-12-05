@@ -31,7 +31,7 @@ Before committing make sure you follow all the instructions properly.
 
 - **MP3 Extractor from you-Tube**
 
--  **Text Editor:** Designing UI for text editor with Java Swing is a cake walk. Use an advanced data structure like suffix tree, Patrica ,etc for searching.
+-  **Text Editor:** Designing UI for text editor with Java Swing is a cake walk. Use an advanced data structure like suffix tree, Patricia Tree, etc for searching.
 
 - **Zip Password Crackers**: Any File Can be unzipped through the command line, providing password as an argument. So, write a simple brute force program to generate permutations (possible passwords) and send it to command line, creating and running shell script. Run until you receive a success return call, that's it, the simple Zip Password Cracker Project is ready.
 
