@@ -1,12 +1,6 @@
 # 1000_Projects
  Mega List of practical projects that any one can solve in any programming language!
-
----
-
-### Donate ($1) - Help me in creating more awesome open source projects
-
-[<img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg">](https://www.paypal.me/vikeshtiwari/1)
-
+ 
 ---
  
 [Contributing](https://github.com/vicky002/1000_Projects/blob/master/CONTRIBUTING.md)
