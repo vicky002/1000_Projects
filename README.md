@@ -229,6 +229,9 @@ Before committing make sure you follow all the instructions properly.
 
 - **Web Board (Forum)** – Create a forum for you and your buddies to post, administer and share thoughts and ideas.
 
+- **Github Timeline Hacker** -  Use the javascript , create the script where you can upload the sample file through ssh with the  backdate on it through random function.
+
+
 
 Graphics and Multimedia
 -----------------------
@@ -289,6 +292,7 @@ Games
 **Tetris** –  Tile-matching puzzle video game. Arrange incoming tiles such that a row is formed, which once formed disappears. Get points by making as many rows as possible. Introduce levels.
 
 **Scarne's Dice** - Turn-based dice game where players score points by rolling a die and then: if they roll a 1, score no points and lose their turn, if they roll a 2 to 6: add the rolled value to their points choose to either reroll or keep their score and end their turn. The winner is the first player that reaches (or exceeds) 100 points.
+
 
 
 Research Projects
