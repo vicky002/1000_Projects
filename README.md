@@ -29,7 +29,7 @@ Before committing make sure you follow all the instructions properly.
 
 - **Media Player in Java**:  Easy to implement. Thanks to Java Sample Sound/Audio API.
 
-- **MP3 Extractor from you-Tube**
+- **MP3 Extractor from youtube**
 
 -  **Text Editor:** Designing UI for text editor with Java Swing is a cake walk. Use an advanced data structure like suffix tree, Patricia Tree, etc for searching.
 
